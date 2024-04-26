@@ -1,6 +1,6 @@
-import FiltersMenu from "./_components/FiltersMenu";
-import FormWrapper from "./_components/FormWrapper";
-import SearchBar from "./_components/SearchBar";
+import FiltersMenu from "./FiltersMenu";
+import FormWrapper from "./FormWrapper";
+import SearchBar from "./SearchBar";
 
 export default function SearchPage() {
   return (
